@@ -19,4 +19,5 @@ The file *xml-links* is an example of \<keys-file>. The identifications were col
 ## Authors
 
 Arthur Henrique Sousa Cruz (github.com/thuzax)
+
 Eduardo Fernando de Lima (github.com/limaeduardo)
