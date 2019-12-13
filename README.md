@@ -16,6 +16,7 @@ $ python3 downloader.py <keys-file> <destiny-folder>
 The file *xml-links* is an example of \<keys-file>. The identifications were collected on October 09 of 2019. 
 
 
-## Author
+## Authors
 
-Arthur Henrique Sousa Cruz
+Arthur Henrique Sousa Cruz (github.com/thuzax)
+Eduardo Fernando de Lima (github.com/limaeduardo)
