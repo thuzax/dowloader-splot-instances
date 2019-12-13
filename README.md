@@ -9,6 +9,7 @@ $ python3 downloader.py <keys-file> <destiny-folder>
 ```
 
 **\<keys-file>** is a file containing the identifications of the files in SPLOT repository. The program will use each identification with the base link http://52.32.1.180:8080/SPLOT/models/ (for example: http://52.32.1.180:8080/SPLOT/models/model_01.xml).
+
 **\<destiny-folder>** is the folder where all the downloaded models will be saved.
 
 ## Example
